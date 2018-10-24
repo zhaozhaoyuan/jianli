@@ -1,0 +1,37 @@
+.geren{
+    font-size: 50px;font-weight: bold;text-align: center;
+}
+.ren{
+    height:100px;width: 80px;border-radius: 50%;
+}
+body{
+    background-color: #F4F4F4;
+}
+article{ margin:0 auto; padding:20px;
+}
+header{
+    font-size: 24px;text-align: center;line-height: 50px;
+    border-bottom: 3px dashed #DDD;
+}
+.xinxi{height:280px;}
+.neirong{height: 800px;}
+.zuo{float: left;font-size: 12px;line-height: 30px; letter-spacing: 0.5em; width: 320px;}
+.you{float: left;font-size: 12px;line-height: 30px; letter-spacing: 0.5em}
+.ps{width:60px;height: 60px;border-radius: 50%;margin-left: 10px;}
+.ae{width:60px;height: 60px;border-radius: 50%;}
+.pr{width:60px;height: 60px;border-radius: 50%;}
+.ai{width:60px;height: 60px;border-radius: 50%;}
+.max{width:60px;height: 60px;border-radius: 50%;}
+.dw{width:60px;height: 60px;border-radius: 50%;margin-left: 10px;}
+.ppt{width:60px;height: 60px;border-radius: 50%;margin-left: 10px;}
+.excel{width:60px;height: 60px;border-radius: 50%;}
+.word{width:60px;height: 60px;border-radius: 50%;}
+.ws{width:60px;height: 60px;border-radius: 50%;}
+h3{font-size: 18px; line-height: 30px;border-bottom: 2px solid #f4000e;  letter-spacing: 1em;}
+p{font-size: 12px;line-height: 30px; letter-spacing: 0.5em}
+
+img{margin:20px 20px}
+
+.suo{text-indent: 3em}
+@media all and (max-width: 640px){  article{width:100%; box-sizing: border-box; }.geren{  font-size: 30px;}
+}
